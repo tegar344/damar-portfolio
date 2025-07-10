@@ -95,7 +95,7 @@ export default function HomePage() {
                 </motion.div>
                 <motion.div className="flex items-center gap-3" whileHover={{ x: 5 }} transition={{ duration: 0.2 }}>
                   <Phone className="h-4 w-4 text-slate-500" />
-                  <span className="text-slate-700">+62 812-3456-7890</span>
+                  <span className="text-slate-700">+62 856-7220-186</span>
                 </motion.div>
                 <motion.div className="flex items-center gap-3" whileHover={{ x: 5 }} transition={{ duration: 0.2 }}>
                   <Globe className="h-4 w-4 text-slate-500" />
